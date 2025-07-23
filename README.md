@@ -13,8 +13,8 @@
 
 🤍 Curto animes, músicas e explorar o que envolve tecnologia.
 
-<p align="right">
-  <img src="[https://i.makeagif.com/media/7-23-2024/nCKO7Z.gif" width="200" alt="cat-on-computer](https://i.makeagif.com/media/8-20-2015/nCKO7Z.mp4)" />
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat coding gif" />
 </p>
 
 ---
