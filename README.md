@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo(a) ao meu perfil! ૮ ˶ᵔ ᵕ ᵔ˶ ა</h1>
+<h1 align="center">Bem vindo(a) ao meu perfil! 🤍</h1>
 
 ---
 
@@ -14,7 +14,7 @@
 🤍 Curto animes, músicas e explorar o que envolve tecnologia.
 
 <p align="right">
-  <img src="https://i.makeagif.com/media/7-23-2024/nCKO7Z.gif" width="200" alt="cat-on-computer" />
+  <img src="[https://i.makeagif.com/media/7-23-2024/nCKO7Z.gif" width="200" alt="cat-on-computer](https://i.makeagif.com/media/8-20-2015/nCKO7Z.mp4)" />
 </p>
 
 ---
