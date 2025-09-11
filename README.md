@@ -10,6 +10,7 @@
 - C
 - Python
 - PostgreSQL (PSQL)
+- Java
 
 🤍 Curto animes, músicas e explorar o que envolve tecnologia.
 
