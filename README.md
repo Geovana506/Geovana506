@@ -22,7 +22,8 @@
 
 ## 🚀 Trajetória de Aprendizado e Conquistas:
 
-## 🚀 Linguagens Mais Usadas:
+
+### 🚀 Linguagens Mais Usadas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovana506&layout=compact&langs_count=6&theme=dark)
 
