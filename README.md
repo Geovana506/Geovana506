@@ -7,6 +7,7 @@
 🎓 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no **IFG**  
 💡 Atualmente estudando e praticando:
 - HTML
+- CSS
 - C
 - Python
 - PostgreSQL (PSQL)
