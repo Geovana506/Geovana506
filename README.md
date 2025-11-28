@@ -12,6 +12,7 @@
 - Python
 - PostgreSQL (PSQL)
 - Java
+- Java Script
 
 
 <p align="center">
