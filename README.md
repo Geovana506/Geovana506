@@ -21,16 +21,33 @@
 
 ---
 
-## 🚀 Trajetória de Aprendizado e Conquistas:
+## 🚀 Trajetória de Aprendizado e Conquistas
 
+---
 
-### 🚀 Linguagens Mais Usadas:
+### 💻 Linguagens Mais Usadas
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Geovana506&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geovana506&layout=compact&langs_count=6&theme=dark)
+---
 
-### 📊 Estatísticas GitHub:
+### 📊 Estatísticas GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Geovana506&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
-![Geovana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geovana506&show_icons=true&theme=tokyonight&count_private=true)
+### 🔥 Sequência de Contribuições
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Geovana506&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+### 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geovana506&theme=tokyonight"/>
+</div>
 
 ---
 
